@@ -62,85 +62,85 @@ The global diagramming and visual collaboration software market is estimated at 
 
 ## 💻 Open-Source GitHub Projects
 
-*Sorted in descending order by GitHub Stars.* 🌟
+*Sorted in descending order by GitHub_Stars.* 🌟
 
-1. ### **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) ✏️
+1. ### **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) ✏️
    - **Stars:** ~134k+ | **License:** MIT
    - **Virtual whiteboard for sketching hand-drawn-like diagrams.** The premier open-source sketching tool for technical diagrams, system design, and brainstorming. Features arrow binding for connected diagrams, multi-point lines, free-hand drawing, dark mode, and grid alignment. Includes a React component package (`@excalidraw/excalidraw`) for embedding directly in web applications, plus an active ecosystem of Obsidian, VS Code, and JetBrains extensions.
 
-2. ### **[Mermaid](https://github.com/mermaid-js/mermaid)** [![GitHub stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social&color=white)](https://github.com/mermaid-js/mermaid/stargazers) 🧜‍♀️
+2. ### **[Mermaid](https://github.com/mermaid-js/mermaid)** [![GitHub_Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social&color=white)](https://github.com/mermaid-js/mermaid/stargazers) 🧜‍♀️
    - **Stars:** ~91k+ | **License:** MIT
    - **JavaScript-based diagramming and charting from Markdown-inspired text definitions.** The de facto standard for diagram-as-code in technical documentation. Directly supported in GitHub, GitLab, Notion, and Azure DevOps markdown files. Enables generation of flowcharts, sequence diagrams, state diagrams, class diagrams, Gantt charts, and Git graphs directly from version-controlled source text.
 
-3. ### **[draw.io Desktop](https://github.com/jgraph/drawio-desktop)** [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social&color=white)](https://github.com/jgraph/drawio-desktop/stargazers) 🖥️
+3. ### **[draw.io Desktop](https://github.com/jgraph/drawio-desktop)** [![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio-desktop?style=social&color=white)](https://github.com/jgraph/drawio-desktop/stargazers) 🖥️
    - **Stars:** ~64k+ | **License:** Apache-2.0
    - **Offline desktop build of diagrams.net (draw.io).** Runs locally across macOS, Windows, and Linux via Electron. Delivers full privacy and complete offline capability without third-party cloud dependencies. Supports custom shape libraries, offline font rendering, and seamless import/export of `.drawio` files, SVGs, and PDFs.
 
-4. ### **[Diagram Design](https://github.com/cathrynlavery/diagram-design)** [![GitHub stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=social&color=white)](https://github.com/cathrynlavery/diagram-design/stargazers) 📐
+4. ### **[Diagram Design](https://github.com/cathrynlavery/diagram-design)** [![GitHub_Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=social&color=white)](https://github.com/cathrynlavery/diagram-design/stargazers) 📐
    - **Stars:** ~56k+ | **License:** MIT
    - **Editorial diagram design tuned for coding agents.** Specifically engineered for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi—focused on delivering crisp, publication-grade visuals ("No shadows, no Mermaid slop"). Supports 42 diagram types with self-contained HTML + SVG output, brand token extraction, and cross-agent installation via `npx skills add cathrynlavery/diagram-design`.
 
-5. ### **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers) 🖊️
+5. ### **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers) 🖊️
    - **Stars:** ~51k+ | **License:** Apache-2.0 / Commercial
    - **Tiny, delightful canvas and infinite whiteboard library.** Written in TypeScript and React, tldraw serves as a foundational engine for custom AI whiteboarding experiments, multimodal canvas bots (e.g., Make Real / Draw-a-UI), and embeddable visual editors with multiplayer synchronization.
 
-6. ### **[Diagrams (Python)](https://github.com/mingrammer/diagrams)** [![GitHub stars](https://img.shields.io/github/stars/mingrammer/diagrams?style=social&color=white)](https://github.com/mingrammer/diagrams/stargazers) 🐍
+6. ### **[Diagrams (Python)](https://github.com/mingrammer/diagrams)** [![GitHub_Stars](https://img.shields.io/github/stars/mingrammer/diagrams?style=social&color=white)](https://github.com/mingrammer/diagrams/stargazers) 🐍
    - **Stars:** ~43k+ | **License:** MIT
    - **Diagram as Code for prototyping cloud system architectures.** Generate cloud architecture visuals across AWS, Azure, GCP, Kubernetes, Alibaba Cloud, and on-premise infrastructure using clean, declarative Python code. Backed by Graphviz for deterministic automated layouts.
 
-7. ### **[D2](https://github.com/terrastruct/d2)** [![GitHub stars](https://img.shields.io/github/stars/terrastruct/d2?style=social&color=white)](https://github.com/terrastruct/d2/stargazers) 💎
+7. ### **[D2](https://github.com/terrastruct/d2)** [![GitHub_Stars](https://img.shields.io/github/stars/terrastruct/d2?style=social&color=white)](https://github.com/terrastruct/d2/stargazers) 💎
    - **Stars:** ~26k+ | **License:** MPL-2.0
    - **Modern declarative diagram scripting language.** D2 turns plain text descriptions into beautiful diagrams with pluggable layout engines (TALA, Dagre, ELK). Designed with human-readable syntax, nested diagrams, auto-formatting, SQL tables, class definitions, and code snippet embeddings.
 
-8. ### **[PlantUML](https://github.com/plantuml/plantuml)** [![GitHub stars](https://img.shields.io/github/stars/plantuml/plantuml?style=social&color=white)](https://github.com/plantuml/plantuml/stargazers) 🌲
+8. ### **[PlantUML](https://github.com/plantuml/plantuml)** [![GitHub_Stars](https://img.shields.io/github/stars/plantuml/plantuml?style=social&color=white)](https://github.com/plantuml/plantuml/stargazers) 🌲
    - **Stars:** ~13k+ | **License:** GPL / LGPL / Apache / MIT
    - **The gold standard for text-to-UML generation.** Robust syntax supporting sequence, use-case, class, activity, component, state, and deployment diagrams. Backed by decades of battle-tested tooling, CI/CD plugins, IDE extensions, and server-side renderers.
 
-9. ### **[bpmn-js](https://github.com/bpmn-io/bpmn-js)** [![GitHub stars](https://img.shields.io/github/stars/bpmn-io/bpmn-js)](https://github.com/bpmn-io/bpmn-js/stargazers) ⚙️
+9. ### **[bpmn-js](https://github.com/bpmn-io/bpmn-js)** [![GitHub_Stars](https://img.shields.io/github/stars/bpmn-io/bpmn-js)](https://github.com/bpmn-io/bpmn-js/stargazers) ⚙️
    - **Stars:** ~9.7k+ | **License:** bpmn.io license
    - **BPMN 2.0 diagramming toolkit and web modeler.** Built with JavaScript for embedding in modern web applications. Provides complete interactive editing, viewing, and automated traversal for enterprise workflows and business process notation.
 
-10. ### **[draw.io Web Core](https://github.com/jgraph/drawio)** [![GitHub stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers) 🌐
+10. ### **[draw.io Web Core](https://github.com/jgraph/drawio)** [![GitHub_Stars](https://img.shields.io/github/stars/jgraph/drawio?style=social&color=white)](https://github.com/jgraph/drawio/stargazers) 🌐
     - **Stars:** ~8.8k+ | **License:** Apache-2.0
     - **Core open-source repository for diagrams.net.** Independent and privacy-first web diagramming application storing zero data on proprietary servers. Diagrams remain locally stored or sync directly to Google Drive, OneDrive, GitHub, or GitLab.
 
-11. ### **[Mermaid CLI](https://github.com/mermaid-js/mermaid-cli)** [![GitHub stars](https://img.shields.io/github/stars/mermaid-js/mermaid-cli?style=social&color=white)](https://github.com/mermaid-js/mermaid-cli/stargazers) 💻
+11. ### **[Mermaid CLI](https://github.com/mermaid-js/mermaid-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/mermaid-js/mermaid-cli?style=social&color=white)](https://github.com/mermaid-js/mermaid-cli/stargazers) 💻
     - **Stars:** ~5.1k+ | **License:** MIT
     - **Command-line interface for Mermaid.** Compiles `.mmd` text definitions to SVG, PNG, and PDF headlessly using Puppeteer. Essential for CI/CD documentation pipelines and automated release documentation generation.
 
-12. ### **[Kroki](https://github.com/yuzutech/kroki)** [![GitHub stars](https://img.shields.io/github/stars/yuzutech/kroki?style=social&color=white)](https://github.com/yuzutech/kroki/stargazers) 🚀
+12. ### **[Kroki](https://github.com/yuzutech/kroki)** [![GitHub_Stars](https://img.shields.io/github/stars/yuzutech/kroki?style=social&color=white)](https://github.com/yuzutech/kroki/stargazers) 🚀
     - **Stars:** ~4.4k+ | **License:** MIT
     - **Unified gateway and microservice for diagram-as-code.** Provides a single HTTP API to render diagrams written in Mermaid, PlantUML, D2, Graphviz, BlockDiag, BPMN, Bytefield, C4, Erd, Excalidraw, Nomnoml, Pikchr, Structurizr, SVGBob, Vega, WaveDrom, and WireViz.
 
-13. ### **[PlantUML Server](https://github.com/plantuml/plantuml-server)** [![GitHub stars](https://img.shields.io/github/stars/plantuml/plantuml-server?style=social&color=white)](https://github.com/plantuml/plantuml-server/stargazers) 🖧
+13. ### **[PlantUML Server](https://github.com/plantuml/plantuml-server)** [![GitHub_Stars](https://img.shields.io/github/stars/plantuml/plantuml-server?style=social&color=white)](https://github.com/plantuml/plantuml-server/stargazers) 🖧
     - **Stars:** ~2.2k+ | **License:** GPL-3.0
     - **Lightweight web application and Dockerized microservice for on-demand PlantUML rendering.** Directly generates SVG and PNG diagrams via HTTP GET/POST queries.
 
-14. ### **[excalidraw-converter](https://github.com/sindrel/excalidraw-converter)** [![GitHub stars](https://img.shields.io/github/stars/sindrel/excalidraw-converter?style=social&color=white)](https://github.com/sindrel/excalidraw-converter/stargazers) 🔄
+14. ### **[excalidraw-converter](https://github.com/sindrel/excalidraw-converter)** [![GitHub_Stars](https://img.shields.io/github/stars/sindrel/excalidraw-converter?style=social&color=white)](https://github.com/sindrel/excalidraw-converter/stargazers) 🔄
     - **Stars:** ~294 | **License:** MIT
     - **CLI utility for porting Excalidraw diagrams to Gliffy and draw.io format.** Bridges hand-drawn brainstorming sessions into formal enterprise diagramming files.
 
-15. ### **[excalidraw-self-hosted](https://github.com/Someone0nEarth/excalidraw-self-hosted)** [![GitHub stars](https://img.shields.io/github/stars/Someone0nEarth/excalidraw-self-hosted?style=social&color=white)](https://github.com/Someone0nEarth/excalidraw-self-hosted/stargazers) 🐳
+15. ### **[excalidraw-self-hosted](https://github.com/Someone0nEarth/excalidraw-self-hosted)** [![GitHub_Stars](https://img.shields.io/github/stars/Someone0nEarth/excalidraw-self-hosted?style=social&color=white)](https://github.com/Someone0nEarth/excalidraw-self-hosted/stargazers) 🐳
     - **Stars:** ~168 | **License:** MIT
     - **Docker-compose configuration for a fully private self-hosted Excalidraw stack.** Includes web frontend, local storage backend, and websocket multiplayer sharing room.
 
-16. ### **[system-design-templates-excalidraw](https://github.com/aretecode/system-design-templates-excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/aretecode/system-design-templates-excalidraw?style=social&color=white)](https://github.com/aretecode/system-design-templates-excalidraw/stargazers) 📐
+16. ### **[system-design-templates-excalidraw](https://github.com/aretecode/system-design-templates-excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/aretecode/system-design-templates-excalidraw?style=social&color=white)](https://github.com/aretecode/system-design-templates-excalidraw/stargazers) 📐
     - **Stars:** ~123 | **License:** Open
     - **Curated collection of system design primitives and shapes.** Rapid wireframes and components for distributed systems, microservices, databases, caches, and frontend architectures.
 
-17. ### **[excalidraw-jetbrains-plugin](https://github.com/bric3/excalidraw-jetbrains-plugin)** [![GitHub stars](https://img.shields.io/github/stars/bric3/excalidraw-jetbrains-plugin?style=social&color=white)](https://github.com/bric3/excalidraw-jetbrains-plugin/stargazers) 🧩
+17. ### **[excalidraw-jetbrains-plugin](https://github.com/bric3/excalidraw-jetbrains-plugin)** [![GitHub_Stars](https://img.shields.io/github/stars/bric3/excalidraw-jetbrains-plugin?style=social&color=white)](https://github.com/bric3/excalidraw-jetbrains-plugin/stargazers) 🧩
     - **Stars:** ~103 | **License:** Apache-2.0
     - **JetBrains IDE integration.** View, create, and modify Excalidraw files directly within IntelliJ IDEA, CLion, WebStorm, PyCharm, and GoLand.
 
-18. ### **[Zenuml Core](https://github.com/mermaid-js/zenuml-core)** [![GitHub stars](https://img.shields.io/github/stars/mermaid-js/zenuml-core?style=social&color=white)](https://github.com/mermaid-js/zenuml-core/stargazers) 🧘
+18. ### **[Zenuml Core](https://github.com/mermaid-js/zenuml-core)** [![GitHub_Stars](https://img.shields.io/github/stars/mermaid-js/zenuml-core?style=social&color=white)](https://github.com/mermaid-js/zenuml-core/stargazers) 🧘
     - **Stars:** ~69 | **License:** MIT
     - **Sequence diagram generator with code-like syntax.** Focuses on developer ergonomics, object interactions, message dispatch, and synchronous/asynchronous logic mapping.
 
-19. ### **[vscode-excalidraw](https://github.com/brijeshb42/vscode-excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/brijeshb42/vscode-excalidraw?style=social&color=white)](https://github.com/brijeshb42/vscode-excalidraw/stargazers) 💻
+19. ### **[vscode-excalidraw](https://github.com/brijeshb42/vscode-excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/brijeshb42/vscode-excalidraw?style=social&color=white)](https://github.com/brijeshb42/vscode-excalidraw/stargazers) 💻
     - **Stars:** ~32 | **License:** MIT
     - **Visual Studio Code extension for Excalidraw.** Allows developers to sketch system designs and flowcharts without leaving their editor workspace.
 
-20. ### **[drawio-mcp](https://github.com/yohasacura/drawio-mcp)** [![GitHub stars](https://img.shields.io/github/stars/yohasacura/drawio-mcp?style=social&color=white)](https://github.com/yohasacura/drawio-mcp/stargazers) 🤖
+20. ### **[drawio-mcp](https://github.com/yohasacura/drawio-mcp)** [![GitHub_Stars](https://img.shields.io/github/stars/yohasacura/drawio-mcp?style=social&color=white)](https://github.com/yohasacura/drawio-mcp/stargazers) 🤖
     - **Stars:** ~5 | **License:** MIT
     - **Model Context Protocol (MCP) server for programmatic draw.io generation.** Connects coding agents (Claude Desktop, Cursor, GitHub Copilot) to generate, edit, auto-layout, and polish `.drawio` files directly from codebase inspections.
 
@@ -162,7 +162,7 @@ Contributions are welcome! To propose a new tool, update pricing, or refine desc
 
 1. 🍴 Fork the repository.
 2. 📝 Update `README.md` following the established format and guidelines.
-3. 🔗 Include official documentation links, pricing details, and free tier limitations for SaaS products, or GitHub star badges for open-source tools.
+3. 🔗 Include official documentation links, pricing details, and free tier limitations for SaaS products, or GitHub Stars_Badges for open-source tools.
 4. 🚀 Submit a pull request with a concise description of your additions.
 
 ---
