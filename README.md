@@ -29,78 +29,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 ## Table of Contents
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global diagramming and visual collaboration software market is estimated at **$4.5B to $6.0B** (with dedicated diagramming at ~$1.5B–$1.8B and collaborative visual workspaces/whiteboards at ~$3.5B–$4.1B, expanding at 10%–15% CAGR). The sector is **moderately concentrated at the enterprise layer**, dominated by foundational platform giants (Microsoft, Miro, Lucid) that hold enterprise-wide procurement locks, while exhibiting a fragmented long-tail of specialized niche, indie, and developer-focused text-to-visual tools.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Lucidchart](https://www.lucidchart.com/)**  
-
-  Web-based diagramming with real-time collaboration, revision history, and encrypted storage on managed servers. Extensive enterprise integrations (ServiceNow, LeanIX) and SSO via Google, OneLogin, Okta, and Ping . Paid plans required for advanced features like revision history and enterprise security controls.
-
-
-
-- **[Miro](https://miro.com/)**  
-
-  Collaborative whiteboard platform with diagramming templates, real-time multiplayer, and AI-assisted generation. Widely used for brainstorming, architecture mapping, and agile ceremonies.
-
-
-
-- **[Mural](https://www.mural.co/)**  
-
-  Visual collaboration platform with facilitated workshop features, diagramming tools, and enterprise-grade security.
-
-
-
-- **[Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/)**  
-
-  Desktop and web diagramming with deep Microsoft 365 integration, extensive shape libraries, and enterprise data linking.
-
-
-
-- **[Gliffy](https://www.gliffy.com/)**  
-
-  Diagramming for Confluence and Jira with native Atlassian integration, drag-and-drop editor, and team collaboration.
-
-
-
-- **[Creately](https://creately.com/)**  
-
-  Visual workspace with diagramming, project planning, and real-time collaboration. Features AI-assisted diagram generation and extensive template library.
-
-
-
-- **[Draw.io Pro (Atlassian)](https://www.drawio.com/)**  
-
-  Commercial Atlassian integration for draw.io. Free for teams under 10 users; paid for larger teams. The core editor remains Apache 2.0 licensed .
-
-
-
-- **[MindMeister](https://www.mindmeister.com/)**  
-
-  Mind mapping tool with real-time collaboration, presentation mode, and integrations with MeisterTask for project management.
-
-
-
-- **[Whimsical](https://whimsical.com/)**  
-
-  Fast, minimal diagramming for flowcharts, wireframes, mind maps, and docs. Known for speed and clean design.
-
-
-
-- **[Cacoo](https://cacoo.com/)**  
-
-  Real-time collaborative diagramming with templates, integrations (Confluence, Jira, Google Drive), and enterprise security.
+| Platform | Company Size (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier Limits | Key Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/)** | **~$3.1 Trillion** market cap / $245B+ rev (Microsoft parent) | $5.00/user/month (Visio Plan 1, annual billing) | 30-day free trial for Visio Plan 1/2; or Visio for M365 included with M365 commercial licenses (basic browser editing, limited templates) | Deep Microsoft 365 ecosystem integration, enterprise data-linking, industry-standard governance. |
+| **[Lucidchart](https://www.lucidchart.com/)** | **$3.0 Billion** valuation / ~$200M+ ARR (Lucid Software) | $7.95/user/month (Individual plan, annual billing) | 3 editable documents, capped at 60 shapes per document, 100 basic templates | Web-based diagramming standard with robust enterprise integrations (ServiceNow, LeanIX, Confluence). |
+| **[Mural](https://www.mural.co/)** | **$2.0 Billion** valuation / ~$100M–$125M ARR | $9.99/member/month (Team+ plan, annual billing) | 3 active murals, unlimited members, open workspace rooms only (no private rooms) | Facilitated visual collaboration platform tailored for workshops, agile ceremonies, and team planning. |
+| **[Miro](https://miro.com/)** | **$1.355 Billion** acquisition EV / ~$600M ARR (acquired by Bending Spoons) | $8.00/member/month (Starter plan, annual billing) | 3 editable boards, unlimited team members, 10 AI credits per month, public team boards only | Dominant visual canvas and whiteboarding platform with extensive diagramming templates and AI widgets. |
+| **[Gliffy](https://www.gliffy.com/)** | **~$100M+** (subsidiary of Perforce Software, private PE-backed) | $8.00/user/month (up to 50 users for Confluence Cloud, annual) / $10.00/mo standalone | Free for up to 10 users on Atlassian Confluence/Jira Cloud; 14-day free trial on standalone cloud | Native Confluence and Jira diagramming integration with drag-and-drop modeling. |
+| **[Whimsical](https://whimsical.com/)** | **~$100M–$250M** valuation / ~$7M+ ARR | $10.00/editor/month (Pro plan, annual billing) | 50 board objects/month, 50 doc blocks/month, 10 one-time AI credits, unlimited boards & viewers | High-speed, minimalist canvas combining flowcharts, wireframes, mind maps, and docs. |
+| **[Cacoo](https://cacoo.com/)** | **~$50M–$55M** market cap / ~$28M–$30M rev (Nulab, TYO: 5033) | $6.00/user/month (Pro/Team plan, annual billing) | 6 sheets (diagrams) total, unlimited users, PNG export only, 14-day trial for paid tiers | Real-time collaborative diagramming with multi-user cursors and Confluence/Jira/Google Drive integrations. |
+| **[Draw.io Pro (Atlassian)](https://www.drawio.com/)** | **~$15M–$30M** estimated commercial rev (independent draw.io Ltd / AG) | $5.00/month flat (11–20 users on Confluence Cloud) scaling tiered | Free forever for teams of up to 10 users on Atlassian Confluence/Jira Cloud; web standalone is 100% free | Commercial Atlassian marketplace plugin for the Apache-2.0 draw.io/diagrams.net core engine. |
+| **[Creately](https://creately.com/)** | **~$10M–$20M** estimated valuation / ~$5.1M ARR (Cinergix) | $5.00/user/month (Starter plan, annual billing) | Unlimited canvases & collaborators, capped at 45 items/shapes per canvas, 1 folder, JPEG/PNG export only | Multi-purpose visual workspace with AI modeling assistants and extensive template sets. |
+| **[MindMeister](https://www.mindmeister.com/)** | **Bootstrapped SMB** / ~$5M–$10M ARR (MeisterLabs) | $6.00/user/month (Personal plan, annual billing) | 3 mind maps total, real-time collaboration, no export options (PDF/Word/image exports locked) | Dedicated structured mind mapping tool integrated with MeisterTask project management. |
 
 
 
